@@ -1,1 +1,1 @@
-# Visualize-Data-with-a-Scatterplot-Graph
+Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/bgpXyK.
